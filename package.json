@@ -9,10 +9,18 @@
   },
   "dependencies": {
     "expo": "~42.0.1",
+    "expo-app-loading": "^1.1.2",
+    "expo-camera": "~11.2.2",
+    "expo-image-picker": "~10.2.2",
+    "expo-permissions": "~12.1.1",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-file-base64": "^1.0.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-code-push": "^7.0.3",
+    "react-native-image-crop-picker": "^0.36.3",
+    "react-native-image-picker": "^4.1.1",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
