@@ -1,0 +1,3 @@
+This is the frontend react native code of a robust disease detector application which was developed as a novel research area for the final year project at my university.
+To make the full application work you will have to run both the frontend react native code and the backend python project as well.
+I hosted the backend python flask project on a linux virtual machine on Azure and accessed it through my react native application.
